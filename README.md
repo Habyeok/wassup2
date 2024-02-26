@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=ESTsoft%20서비스%20기획자%20양성과정%20WASSUP%202기&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ESTsoft%20서비스%20기획자%20양성과정%20WASSUP%202기&fontSize=40)
 
 
 # WASSUP2
