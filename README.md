@@ -1,8 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=ESTsoft%20서비스%20기획자%20양성과정%20WASSUP%202기&fontSize=40&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=ESTsoft%20서비스%20기획자%20양성과정%20WASSUP%202기&fontSize=40)
 
 
 # WASSUP2
 ESTsoft 서비스 기획자 양성과정 WASSUP 2기  
+
+
+## 📍기간
 2024년 1월 22일 ~
 
 
@@ -20,16 +23,15 @@ ESTsoft 서비스 기획자 양성과정 WASSUP 2기
 
 
 ## ✨소개
-혼자서 직무와 미래를 고민하다가 새로운 사람들과 함께 공부하고 프로젝트를 해보고 싶어서  
-이번 과정에 참여하게 되었습니다.  
-저는 지나가다 문득 그 자리에 서서 다시 바라보게 되는 서비스를 만들고 싶습니다.  
-막연하게 알고 있었던 SQL, Python, 인공지능을 확실하게 배우고 프로젝트 실습을 통해 기술 역량을 키우고 싶습니다.  
-덧붙여 기업의 비즈니스를 이해하고, 배운 도구를 이용해 다양한 서비스를 분석해보고, 산출물에 대해 배워서  
-프로젝트에 적용하고 소셜 스킬도 갈고 닦고 싶습니다.  
-열심히 하겠습니다! 파이팅!
+혼자서 직무와 미래를 고민하다가 새로운 사람들을 만나보고 싶었습니다.  
+부트캠프 참여가 저에게 큰 도움이 될 것이라 매일 교육을 들으며 느끼고 있습니다.
+
+저는 지나가다 문득 그 자리에 서서 다시 한 번 더 바라보게 되는 서비스를 만들고 싶습니다.  
+그동안 소홀히 했던 자기 성찰을 시작으로 타인의 마음을 궁금해 하는 사람이 되어  
+인성과 기술 및 기획 역량을 키우도록 열심히 하겠습니다! 파이팅!
 
 
-![wonka](https://img1.daumcdn.net/thumb/C280x280.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/eyUN/image/PCN8HY34dzQ_FqIp1IWv8yNl2H0.jpg)
+![wonka](https://file2.nocutnews.co.kr/newsroom/image/2024/01/23/202401232019090310_0.jpg)
 
 
-![footer](https://capsule-render.vercel.app/api?&type=soft&section=footer&text=Pure%20Imagination&fontSize=40&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?&type=soft&section=footer&text=Pure%20Imagination&fontSize=40&animation=twinkling&height=100)
