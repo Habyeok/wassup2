@@ -1,19 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=ESTsoft%20서비스%20기획자%20양성과정%20WASSUP%202기&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=ESTsoft%20서비스%20기획자%20양성과정%20WASSUP%202기&fontSize=40)
 
 
 # WASSUP2
 ESTsoft 서비스 기획자 양성과정 WASSUP 2기  
 
 
-## 📍기간
+### 📍기간
 2024년 1월 22일 ~
 
 
-## 📍목적
+### 📍목적
 기술 강의 Python 실습 과정을 담을 예정입니다.
 
 
-## 📍목표
+### 📍목표
 1. Python 강의 잘 따라가기  
 2. 복습은 당일에 하기  
 3. 프로그래머스 문제 풀어보기  
@@ -34,4 +34,4 @@ ESTsoft 서비스 기획자 양성과정 WASSUP 2기
 ![wonka](https://file2.nocutnews.co.kr/newsroom/image/2024/01/23/202401232019090310_0.jpg)
 
 
-![footer](https://capsule-render.vercel.app/api?&type=soft&section=footer&text=Pure%20Imagination&fontSize=40&animation=twinkling&height=100)
+![footer](https://capsule-render.vercel.app/api?&type=soft&section=footer&text=Pure%20Imagination&fontSize=40&animation=twinkling&height=80)
