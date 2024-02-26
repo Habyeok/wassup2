@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=ESTsoft%20서비스%20기획자%20양성과정%20WASSUP%202기&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=ESTsoft%20서비스%20기획자%20양성과정%20WASSUP%202기&fontSize=50)
 # WASSUP2
 ESTsoft 서비스 기획자 양성과정 WASSUP 2기  
 2024년 1월 22일 ~
@@ -21,4 +21,4 @@ ESTsoft 서비스 기획자 양성과정 WASSUP 2기
 프로젝트에 적용하고 소셜 스킬도 갈고 닦고 싶습니다.  
 열심히 하겠습니다! 파이팅!
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?&type=rect&section=footer&text=Pure%20Imagination)
