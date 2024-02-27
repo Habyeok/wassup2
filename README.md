@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ESTsoft%20서비스%20기획자%20양성과정%20WASSUP%202기&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ESTsoft%20AI%20서비스%20기획자%20양성과정%20WASSUP%202기&fontSize=20)
 
 
 # WASSUP2
-ESTsoft 서비스 기획자 양성과정 WASSUP 2기  
+ESTsoft AI 서비스 기획자 양성과정 WASSUP 2기  
 
 
 ### 📍기간
@@ -31,7 +31,7 @@ ESTsoft 서비스 기획자 양성과정 WASSUP 2기
 인성과 기술 및 기획 역량을 키우도록 열심히 하겠습니다! 파이팅!
 
 
-![wonkaimg](https://file2.nocutnews.co.kr/newsroom/image/2024/01/23/202401232019090310_0.jpg)
+<img src="/dataset/wonka.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Wonka"></img>
 
 
 ![footer](https://capsule-render.vercel.app/api?&type=soft&section=footer&text=Pure%20Imagination&fontSize=40&animation=twinkling&height=80)
