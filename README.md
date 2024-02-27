@@ -31,7 +31,7 @@ ESTsoft AI 서비스 기획자 양성과정 WASSUP 2기
 인성과 기술 및 기획 역량을 키우도록 열심히 하겠습니다! 파이팅!
 
 
-![img](https://file2.nocutnews.co.kr/newsroom/image/2024/01/23/202401232019090310_0.jpg)
+![img](https://mblogthumb-phinf.pstatic.net/MjAyNDAyMDJfMTk1/MDAxNzA2ODQzNzA2MTU4.DSwS2AhO40vcStjDtB90P9kEdwlIW9TpnAXJRHamtNUg.uTKQIjNCeSSt_PlxQxub0XwhE4W38cU2Z8gTPW-urigg.JPEG.designpress2016/WON-CC-0006-768x320.jpg?type=w800)
 
 
 ![footer](https://capsule-render.vercel.app/api?&type=soft&section=footer&text=Pure%20Imagination&fontSize=40&animation=twinkling&height=80)
