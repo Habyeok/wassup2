@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ESTsoft%20AI%20서비스%20기획자%20양성과정%20WASSUP%202기&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ESTsoft%20AI%20서비스%20기획자%20양성과정%20WASSUP%202기&fontSize=35)
 
 
 # WASSUP2
@@ -10,7 +10,7 @@ ESTsoft AI 서비스 기획자 양성과정 WASSUP 2기
 
 
 ### 📍목적
-기술 강의 Python 실습 과정을 담을 예정입니다.
+Python을 이용한 데이터 분석과 인공지능 학습 및 프로젝트 수행  
 
 
 ### 📍목표
@@ -18,9 +18,9 @@ ESTsoft AI 서비스 기획자 양성과정 WASSUP 2기
 2. 복습은 당일에 하기  
 3. 프로그래머스 문제 풀어보기  
 
-
+  
 ---
-
+  
 
 ## ✨소개
 혼자서 직무와 미래를 고민하다가 새로운 사람들을 만나보고 싶었습니다.  
@@ -34,4 +34,4 @@ ESTsoft AI 서비스 기획자 양성과정 WASSUP 2기
 ![img](https://mblogthumb-phinf.pstatic.net/MjAyNDAyMDJfMTk1/MDAxNzA2ODQzNzA2MTU4.DSwS2AhO40vcStjDtB90P9kEdwlIW9TpnAXJRHamtNUg.uTKQIjNCeSSt_PlxQxub0XwhE4W38cU2Z8gTPW-urigg.JPEG.designpress2016/WON-CC-0006-768x320.jpg?type=w800)
 
 
-![footer](https://capsule-render.vercel.app/api?&type=soft&section=footer&text=Pure%20Imagination&fontSize=40&animation=twinkling&height=80)
+![footer](https://capsule-render.vercel.app/api?&type=soft&section=footer&text=Pure%20Imagination&fontSize=30&animation=twinkling&height=60&color=gradient)
