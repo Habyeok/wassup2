@@ -1,3 +1,4 @@
+import urllib.request
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -93,7 +94,7 @@ for page_no in range(1, page_cnt+1):
     file_export()
     print(f'====== {page_no} 페이지 스크래핑 완료 ======')
     if page_no < page_cnt:
-        driver.find_element(By.XPATH, f'/html/body/div[3]/div/div[1]/div[15]/a[{page_no+1}]').click()
+        driver.find_element(By.XPATH, f'/html/body/div[3]/div/div[1]/div[14]/a[{page_no+1}]').click()
         time.sleep(2)
                    
 print('스크래핑 프로그램 종료')
