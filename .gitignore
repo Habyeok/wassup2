@@ -18,6 +18,9 @@ output/
 # data
 data/
 
+# result
+result/
+
 # Distribution / packaging
 .Python
 build/
